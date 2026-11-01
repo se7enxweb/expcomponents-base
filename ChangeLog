@@ -1,3 +1,11 @@
+Unreleased - se7enxweb/expcomponents-base
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- Renamed: The package is se7enxweb/expcomponents-base, Exponential's
+  maintained fork of Zeta Components Base. It replaces zetacomponents/base,
+  so packages that require zetacomponents/base keep working. Class names
+  (ezc*) are unchanged.
+
 1.9.5 - Wednesday 12 November 2025
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 

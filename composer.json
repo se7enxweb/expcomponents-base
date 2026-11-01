@@ -37,10 +37,13 @@
         ]
     },
     "description": "The Base package provides the basic infrastructure that all packages rely on. Therefore every component relies on this package.",
-    "homepage": "https://github.com/zetacomponents",
+    "homepage": "https://github.com/se7enxweb/expcomponents-base",
     "license": "Apache-2.0",
-    "name": "zetacomponents/base",
+    "name": "se7enxweb/expcomponents-base",
     "type": "library",
+    "replace": {
+        "zetacomponents/base": "self.version"
+    },
     "require-dev": {
         "phpunit/phpunit": "~9.0",
         "phpunit/php-invoker": "^2.0|^3.1",
