@@ -41,6 +41,9 @@
     "license": "Apache-2.0",
     "name": "se7enxweb/expcomponents-base",
     "type": "library",
+    "require": {
+        "php": ">=7.1"
+    },
     "replace": {
         "zetacomponents/base": "self.version"
     },
